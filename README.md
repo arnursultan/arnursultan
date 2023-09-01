@@ -1,8 +1,6 @@
 <!-- Profile Header -->
 # Hi there, I'm Nursultan Zhanybekov 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/arnursultan?label=Follow&style=social)](https://github.com/arnursultan)
-
 ## About Me
 
 Hello! I'm a software developer with experience in technologies such as Windows/Linux, Django, Django REST framework, Python, Docker, Heroku and PostgreSQL.
