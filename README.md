@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I'm a software developer with experience in technologies such as Windows/Linux, Django, Django REST framework, Python, Docker, Heroku and PostgreSQL.
+Hello! I'm a software developer with experience in technologies such as Windows, Django, Django REST framework, Python, Docker, Heroku and PostgreSQL.
 
 - 🌐 I work on web applications using Django and Django REST framework.
 - 🐳 I containerize applications with Docker.
