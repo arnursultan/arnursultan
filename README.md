@@ -14,11 +14,11 @@ Hello! I'm a software developer with experience in technologies such as Windows,
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnursultan&count_private=true&show_icons=true&theme=buefy)
+![Nursultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnursultan&hide=prs&show_icons=true&theme=merko&rank_icon=github&include_all_commits=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnursultan&layout=compact&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=merko)
 
 ## Connect with Me
 
