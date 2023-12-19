@@ -3,11 +3,10 @@
 
 ## About Me
 
-Hello! I'm a software developer with experience in technologies such as Windows, Django, Django REST framework, Python, Docker, Heroku and PostgreSQL.
+Hello! I'm a software developer with experience in technologies such as Windows, Django, Django REST framework, Python, Docker and PostgreSQL.
 
 - 🌐 I work on web applications using Django and Django REST framework.
 - 🐳 I containerize applications with Docker.
-- 🚀 I deploy my projects on the Heroku platform.
 - 📊 PostgreSQL is my default database choice.
 - 🧩 Open to new and exciting projects and collaborations.
 
@@ -22,9 +21,10 @@ Hello! I'm a software developer with experience in technologies such as Windows,
 
 ## Connect with Me
 
-- 📧 Email: [badasspubgm@gmail.com](mailto:badasspubgm@gmail.com)
-- 💬 LinkedIn: [Nursultan Zhanybekov](https://www.linkedin.com/in/arnursultan/)
-- 🐦 Twitter: [@arnursultan](https://twitter.com/arnursultan)
+- 📧 Email: [BadAss](mailto:badasspubgm@gmail.com)
+- 💬 LinkedIn: [Nursultan Zhanybekov](https://www.linkedin.com/in/arnursultan)
+- 🐦 Twitter: [arnursultan](https://twitter.com/arnursultan)
+- ✈️ Telegram: [Nursultan](https://twitter.com/ar_nursultan)
 
 ## Support Me
 
