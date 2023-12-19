@@ -24,7 +24,7 @@ Hello! I'm a software developer with experience in technologies such as Windows,
 - 📧 Email: [BadAss](mailto:badasspubgm@gmail.com)
 - 💬 LinkedIn: [Nursultan Zhanybekov](https://www.linkedin.com/in/arnursultan)
 - 🐦 Twitter: [arnursultan](https://twitter.com/arnursultan)
-- ✈️ Telegram: [Nursultan](https://twitter.com/ar_nursultan)
+- ✈️ Telegram: [Nursultan](https://t.me/ar_nursultan)
 
 ## Support Me
 
