@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-# Hi there, I'm Nursultan Zhanybekov 👋
+# Hi there, I'm Nursultan Zhanybekov 
 
 ## About Me
 
@@ -21,12 +21,7 @@ Hello! I'm a software developer with experience in technologies such as Windows,
 
 ## Connect with Me
 
-- 📧 Email: [BadAss](mailto:badasspubgm@gmail.com)
-- 💬 LinkedIn: [Nursultan Zhanybekov](https://www.linkedin.com/in/arnursultan)
-- 🐦 Twitter: [arnursultan](https://twitter.com/arnursultan)
+- 📧 Email: [Nursultan](mailto:badasspubgm@gmail.com)
+- 💬 Linkedin: [Nursultan](https://www.linkedin.com/in/arnursultan)
+- 🐦 Twitter: [Nursultan](https://twitter.com/arnursultan)
 - ✈️ Telegram: [Nursultan](https://t.me/ar_nursultan)
-
-## Support Me
-
-If you like my projects and work, you can support me by starring ⭐ my repositories.
-
