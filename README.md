@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-# Hi there, I'm Nursultan Zhanybekov 
+# Hi, I'm Nursultan 
 
 ## About Me
 
