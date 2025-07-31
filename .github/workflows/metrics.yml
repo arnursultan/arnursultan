@@ -13,4 +13,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           base: header, activity, community, repositories
-          config_timezone: Asia/Bishkek
+          config_timezone: Asia/Almaty
+          output_action: commit
+          committer_branch: RTX
