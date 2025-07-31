@@ -25,7 +25,9 @@ class Nursultan:
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arnursultan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=tokyonight" height="180"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=arnursultan&theme=tokyonight&hide_border=true" height="150"/> </div>
 📊 Activity Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" />
+</p>
 ⏱ WakaTime Weekly Stats
 <!--START_SECTION:waka--> <!--END_SECTION:waka-->
 📬 Connect with Me
