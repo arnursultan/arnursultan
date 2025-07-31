@@ -18,7 +18,7 @@ jobs:
           SHOW_OS: "false"
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
-          SHOW_LANGUAGES: "true"
+          SHOW_LANGUAGE: "true"
           SHOW_TIMEZONE: "false"
           SHOW_LOC_CHART: "true"
           SHOW_PROFILE_VIEWS: "false"
