@@ -19,6 +19,7 @@ class Nursultan:
 
     def __str__(self):
         return "Keep it clean. Keep it simple. Keep it running."
+```
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,linux,git,github,bash,webstorm" /> </div>
 📈 GitHub Stats
