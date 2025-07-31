@@ -1,7 +1,7 @@
-name: GitHub Metrics 🌐
+name: Metrics
 
 on:
-  schedule: [{cron: "0 6 * * *"}]
+  schedule: [{cron: "0 2 * * *"}]
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          config_order: base.header, base.repositories, base.activity, base.community
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories
           config_timezone: Asia/Bishkek
