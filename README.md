@@ -37,7 +37,7 @@ class Nursultan:
 
 <!-- Requires metrics.yml and METRICS_TOKEN secret -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" />
+  <iframe src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" width="100%" height="200" frameBorder="0"></iframe>
 </p>
 
 📬 Connect with Me
