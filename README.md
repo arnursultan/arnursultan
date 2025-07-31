@@ -18,6 +18,7 @@ class Nursultan:
 
     def __str__(self):
         return "Passionate about building clean, scalable, production-ready backend systems."
+```
 🚀 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,django,docker,postgres,git,linux,fastapi,nginx,bash" /> </div>
 📊 GitHub Stats
