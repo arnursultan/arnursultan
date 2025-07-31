@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Python Enthusiast 🐍 | API Engineer | Docker Lover 🐳</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean+backends+💪;Designing+scalable+APIs+with+Django+%26+FastAPI;Containerizing+everything+with+Docker+🐳" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Crafting+robust+backends+💪;Engineering+elegant+APIs+with+Django+⚙️;Shipping+containers+like+a+DevOps+pirate+🐳" alt="Typing SVG" />
 </div>
 
 ---
