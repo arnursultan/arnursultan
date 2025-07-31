@@ -1,0 +1,17 @@
+name: GitHub Metrics 🌐
+
+on:
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_order: base.header, base.repositories, base.activity, base.community
+          config_timezone: Asia/Bishkek
