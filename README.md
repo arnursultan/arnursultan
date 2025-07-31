@@ -28,7 +28,6 @@ class Nursultan:
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
 ⏱ WakaTime Weekly Stats
 <!--START_SECTION:waka--> <!--END_SECTION:waka-->
-
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
 📬 Connect with Me
