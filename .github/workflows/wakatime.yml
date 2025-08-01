@@ -25,8 +25,9 @@ jobs:
           SHOW_LINES_OF_CODE: "false"
           SHOW_COMMIT: "false"
           SHOW_UPDATED_DATE: "true"
+          SHOW_TOTAL_CODE_TIME: "false"
 
           COMMIT_MESSAGE: "📊 Updated WakaTime Stats"
           COMMIT_USERNAME: "waka-bot"
           COMMIT_EMAIL: "waka-bot@users.noreply.github.com"
-          PUSH_BRANCH_NAME: "RTX" 
+          PUSH_BRANCH_NAME: "RTX"
