@@ -27,5 +27,6 @@ jobs:
           SHOW_UPDATED_DATE: "true"
 
           COMMIT_MESSAGE: "📊 Updated WakaTime Stats"
-          TARGET_BRANCH: "RTX"          
-          TARGET_PATH: "README.md"  
+          COMMIT_USERNAME: "waka-bot"
+          COMMIT_EMAIL: "waka-bot@users.noreply.github.com"
+          PUSH_BRANCH_NAME: "RTX" 
