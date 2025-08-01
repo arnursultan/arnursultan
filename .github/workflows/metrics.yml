@@ -16,9 +16,3 @@ jobs:
           config_timezone: Asia/Almaty
           output_action: commit
           committer_branch: RTX
-
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages, editors, os
-          plugin_wakatime_colors: github-dark
