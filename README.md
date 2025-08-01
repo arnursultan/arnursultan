@@ -27,8 +27,8 @@ class Nursultan:
 🐍 Activity Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
 ⏱ WakaTime Weekly Stats
+[![Code Time](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@arnursultan)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
