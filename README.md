@@ -29,6 +29,7 @@ class Nursultan:
 ⏱ WakaTime Weekly Stats
 [![Code Time](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@arnursultan)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,13 +44,13 @@ class Nursultan:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Thursday                 100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Thursday                 100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
@@ -89,7 +90,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 20:13:12 UTC
+ Last Updated on 01/08/2025 20:27:25 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
