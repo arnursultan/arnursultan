@@ -20,78 +20,14 @@ class Nursultan:
     def __str__(self):
         return "Keep it clean. Keep it simple. Keep it running."
 ```
-🛠️ Tech Stack
+🛠 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,linux,git,github,bash,webstorm" /> </div>
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arnursultan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=tokyonight" height="180"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=arnursultan&theme=tokyonight&hide_border=true" height="150"/> </div>
-🐍 Activity Snake
+🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
-⏱ WakaTime Weekly Stats
-[![Code Time](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@arnursultan)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2042%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 115.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 37 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Thursday                 100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 27 mins       ███████████████████████░░   93.31 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-
-🔥 Editors: 
-PyCharm                  3 hrs 42 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Server                   1 hr 40 mins        ███████████░░░░░░░░░░░░░░   44.95 % 
-29-1B                    1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.16 % 
-Новая папка (2)          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-copy                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-arnursultan-RTX          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   35 repos            ██████████████████████░░░   89.74 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
-
-
- Last Updated on 01/08/2025 20:27:25 UTC
-<!--END_SECTION:waka-->
+⏱️ WakaTime Weekly Stats
+<!--START_SECTION:waka--> <!-- WakaTime stats will be auto-inserted here --> <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
 📬 Connect with Me
