@@ -27,7 +27,70 @@ class Nursultan:
 🐍 Activity Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
 ⏱ WakaTime Weekly Stats
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2042%20mins-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 115.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 27 mins       ███████████████████████░░   93.31 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+
+🔥 Editors: 
+PyCharm                  3 hrs 42 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Server                   1 hr 40 mins        ███████████░░░░░░░░░░░░░░   44.95 % 
+29-1B                    1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.16 % 
+Новая папка (2)          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+copy                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+arnursultan-RTX          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   35 repos            ██████████████████████░░░   89.74 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
+
+
+ Last Updated on 01/08/2025 20:13:12 UTC
+<!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
 📬 Connect with Me
