@@ -32,6 +32,8 @@ class Nursultan:
 
 > 📦 153.0 kB Used in GitHub's Storage 
  > 
+> 🏆 160 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -55,21 +57,21 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 48 mins       ████████████████████████░   97.11 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   8 hrs 43 mins       ████████████████████████░   97.77 % 
+GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 .env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 4 mins        █████████████████████████   100.00 % 
+PyCharm                  8 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-29-1B                    3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-Server                   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Новая папка (2)          1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-copy                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-arnursultan-RTX          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Server                   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.82 % 
+29-1B                    2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Новая папка (2)          1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+copy                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+server_demo              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 18:38:17 UTC
+ Last Updated on 07/08/2025 19:22:50 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
