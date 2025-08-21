@@ -40,6 +40,40 @@ class Nursultan:
  > 
 > 🔑 1 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Tuesday                  67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Thursday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Saturday                 71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   8 hrs 48 mins       █████████████████████████   98.40 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🔥 Editors: 
+PyCharm                  8 hrs 57 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+30-1B                    2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Server                   2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+copy                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+server_demo              57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Test                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -55,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 19:18:21 UTC
+ Last Updated on 21/08/2025 20:24:34 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
