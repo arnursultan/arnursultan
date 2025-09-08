@@ -40,6 +40,37 @@ class Nursultan:
  > 
 > 🔑 1 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Thursday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Saturday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   5 hrs 12 mins       ████████████████████████░   95.20 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+🔥 Editors: 
+PyCharm                  5 hrs 28 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+30-1B                    2 hrs 53 mins       █████████████░░░░░░░░░░░░   52.88 % 
+copy                     2 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.10 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -55,7 +86,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 19:18:35 UTC
+ Last Updated on 08/09/2025 20:24:28 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
