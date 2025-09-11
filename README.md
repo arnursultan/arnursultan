@@ -32,6 +32,8 @@ class Nursultan:
 
 > 📦 217.5 kB Used in GitHub's Storage 
  > 
+> 🏆 187 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -55,17 +57,20 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 2 mins        ████████████████████████░   95.58 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   3 hrs 28 mins       ███████████████████████░░   93.72 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 16 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-30-1B                    3 hrs 10 mins       ███████████████░░░░░░░░░░   60.11 % 
-copy                     2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.89 % 
+30-1B                    1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.26 % 
+29-1B-5Month             54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+copy                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+backup                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:27:43 UTC
+ Last Updated on 11/09/2025 19:17:00 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
