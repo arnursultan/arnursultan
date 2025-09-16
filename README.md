@@ -36,20 +36,20 @@ class Nursultan:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Tuesday                  69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Thursday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Saturday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Tuesday                  71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Thursday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Saturday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 ```
 
 
@@ -77,9 +77,9 @@ Server                   0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            █████████████████████░░░░   85.37 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   36 repos            █████████████████████░░░░   85.71 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -89,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 14:22:32 UTC
+ Last Updated on 16/09/2025 15:23:54 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
