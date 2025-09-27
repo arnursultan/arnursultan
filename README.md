@@ -57,21 +57,21 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 7 mins        ████████████████████████░   94.59 % 
-INI                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   7 hrs 54 mins       █████████████████████████   98.63 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 38 mins       █████████████████████████   100.00 % 
+PyCharm                  8 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-29-1B-5Month             2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-31-1B                    2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-copy                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-33-1B                    1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-backup                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+29-1B-5Month             2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
+31-1B                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+copy                     1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+backup                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+generator                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:27:55 UTC
+ Last Updated on 27/09/2025 19:16:10 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
