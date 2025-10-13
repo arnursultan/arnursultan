@@ -57,21 +57,18 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 10 mins       ████████████████████████░   96.18 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   2 hrs 27 mins       ████████████████████████░   97.74 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 18 mins       █████████████████████████   100.00 % 
+PyCharm                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-31-1B                    1 hr 43 mins        █████████████░░░░░░░░░░░░   52.29 % 
-29-1B-5Month             38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-copy                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-backup                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Test                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+31-1B                    1 hr 43 mins        █████████████████░░░░░░░░   68.82 % 
+copy                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Test                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+29-1B-5Month             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +86,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 18:31:18 UTC
+ Last Updated on 13/10/2025 19:17:54 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
