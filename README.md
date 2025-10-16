@@ -57,15 +57,14 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   44 mins             █████████████████████████   100.00 % 
+Python                   33 mins             █████████████████████████   100.00 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  44 mins             █████████████████████████   100.00 % 
+PyCharm                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-31-1B                    33 mins             ███████████████████░░░░░░   74.83 % 
-Test                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+31-1B                    33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +82,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 18:32:55 UTC
+ Last Updated on 16/10/2025 19:17:22 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
