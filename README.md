@@ -57,18 +57,18 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 54 mins        ██████████████████████░░░   89.34 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Python                   1 hr 54 mins        ██████████████████████░░░   87.90 % 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 8 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-32-1B                    1 hr 11 mins        ██████████████░░░░░░░░░░░   56.04 % 
-Test                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Новая папка              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Django_Store_Template    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+32-1B                    1 hr 11 mins        ██████████████░░░░░░░░░░░   54.97 % 
+Test                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Новая папка              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Django_Store_Template    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
@@ -87,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2025 18:33:52 UTC
+ Last Updated on 04/11/2025 19:19:19 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
