@@ -57,17 +57,17 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       █████████████████████████   98.79 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Python                   3 hrs 19 mins       █████████████████████████   98.99 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 47 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-32-1B                    2 hrs 15 mins       ████████████████████░░░░░   81.10 % 
-Test                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-copy                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Django_Store_Template    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+32-1B                    2 hrs 50 mins       █████████████████████░░░░   84.32 % 
+Test                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+copy                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Django_Store_Template    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 18:34:45 UTC
+ Last Updated on 06/11/2025 19:19:22 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
