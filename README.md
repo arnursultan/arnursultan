@@ -73,9 +73,9 @@ Django_Store_Template    2 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            █████████████████████░░░░   83.72 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   35 repos            █████████████████████░░░░   85.37 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -85,7 +85,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 19:19:22 UTC
+ Last Updated on 06/11/2025 20:26:40 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
