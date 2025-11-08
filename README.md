@@ -43,13 +43,13 @@ class Nursultan:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Thursday                 110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Monday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Thursday                 110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 
 
@@ -57,17 +57,16 @@ Sunday                   24 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 19 mins       █████████████████████████   98.99 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Python                   4 hrs               █████████████████████████   99.16 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 21 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-32-1B                    2 hrs 50 mins       █████████████████████░░░░   84.32 % 
-Test                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-copy                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Django_Store_Template    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+32-1B                    3 hrs 33 mins       ██████████████████████░░░   88.32 % 
+copy                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Django_Store_Template    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 18:30:05 UTC
+ Last Updated on 08/11/2025 19:17:26 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
