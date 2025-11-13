@@ -40,33 +40,6 @@ class Nursultan:
  > 
 > 🔑 1 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Wednesday                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Thursday                 111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 6 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-PyCharm                  4 hrs 6 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-32-1B                    3 hrs 31 mins       █████████████████████░░░░   85.84 % 
-copy                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -82,7 +55,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2025 18:33:31 UTC
+ Last Updated on 13/11/2025 19:19:34 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
