@@ -32,24 +32,24 @@ class Nursultan:
 
 > 📦 291.6 kB Used in GitHub's Storage 
  > 
-> 🏆 239 Contributions in the Year 2025
+> 🏆 238 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Thursday                 111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Thursday                 111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 
 
@@ -75,9 +75,9 @@ server_demo              17 mins             █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            █████████████████████░░░░   85.71 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   37 repos            ██████████████████████░░░   86.05 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -87,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2025 17:22:05 UTC
+ Last Updated on 19/11/2025 18:35:02 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
