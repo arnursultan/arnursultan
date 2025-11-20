@@ -32,6 +32,8 @@ class Nursultan:
 
 > 📦 291.7 kB Used in GitHub's Storage 
  > 
+> 🏆 242 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -86,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 20:27:31 UTC
+ Last Updated on 20/11/2025 21:21:47 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
