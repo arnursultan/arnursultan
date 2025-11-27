@@ -57,21 +57,20 @@ Sunday                   26 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 27 mins       ████████████████████████░   96.88 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   5 hrs 48 mins       ████████████████████████░   96.77 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 42 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-30-1B 6 month            3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.52 % 
-33-1B                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-31-1BDRF                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-copy                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Test                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+33-1B                    2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
+30-1B 6 month            1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+31-1BDRF                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+copy                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:32:51 UTC
+ Last Updated on 27/11/2025 19:18:54 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
