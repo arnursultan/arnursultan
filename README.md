@@ -32,24 +32,24 @@ class Nursultan:
 
 > 📦 291.7 kB Used in GitHub's Storage 
  > 
-> 🏆 249 Contributions in the Year 2025
+> 🏆 251 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Wednesday                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 113 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Wednesday                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Thursday                 113 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Friday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 
 
@@ -88,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2025 15:22:17 UTC
+ Last Updated on 29/11/2025 16:28:05 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
