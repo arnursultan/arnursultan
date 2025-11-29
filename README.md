@@ -91,7 +91,12 @@ CSS                      1 repo              █░░░░░░░░░░�
  Last Updated on 29/11/2025 18:31:53 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
-<p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
+<p align="center">
+  <picture>
+    <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg">
+    <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.png" alt="GitHub Metrics">
+  </picture>
+</p>
 📬 Connect with Me
 <p align="center"> <a href="mailto:badstack.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/arnursultan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/arnursultan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://t.me/ar_nursultan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> </p>
 🔥 Fun Facts
