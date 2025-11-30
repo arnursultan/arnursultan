@@ -57,19 +57,19 @@ Sunday                   31 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 48 mins       ███████████████████████░░   91.09 % 
-GitIgnore file           24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python                   5 hrs 54 mins       ███████████████████████░░   91.01 % 
+GitIgnore file           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 22 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-33-1B                    3 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.63 % 
-30-1B 6 month            1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-31-1BDRF                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+33-1B                    3 hrs 17 mins       █████████████░░░░░░░░░░░░   50.58 % 
+30-1B 6 month            1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+31-1BDRF                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 18:32:00 UTC
+ Last Updated on 30/11/2025 19:19:01 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg" alt="GitHub Metrics" /> </p>
