@@ -29,10 +29,14 @@ class Nursultan:
   
   <img height="180" src="https://profile-wine-eight.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=tokyonight" />
 </div>
-
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=arnursultan&theme=tokyonight&hide_border=true" />
+  <img 
+       src="https://streak-stats.demolab.com/?user=arnursultan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+       alt="GitHub Streak"
+       height="180"
+  />
 </div>
+
 
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
