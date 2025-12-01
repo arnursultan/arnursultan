@@ -47,7 +47,7 @@ class Nursultan:
 
 > 📦 292.2 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2025
+> 🏆 266 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,19 +72,19 @@ Sunday                   31 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 54 mins       ███████████████████████░░   91.01 % 
-GitIgnore file           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   5 hrs 37 mins       ██████████████████████░░░   87.13 % 
+GitIgnore file           24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Requirements.txt         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 29 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-33-1B                    3 hrs 17 mins       █████████████░░░░░░░░░░░░   50.58 % 
-30-1B 6 month            1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-31-1BDRF                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+33-1B                    3 hrs 17 mins       █████████████░░░░░░░░░░░░   50.94 % 
+30-1B 6 month            1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+31-1BDRF                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2025 18:39:22 UTC
+ Last Updated on 01/12/2025 19:25:09 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
