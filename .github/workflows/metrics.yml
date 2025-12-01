@@ -17,17 +17,15 @@ jobs:
           output_action: commit
           committer_branch: RTX
 
-          config_timezone: Asia/Almaty
           base: header, activity, community, repositories
-
+          config_timezone: Asia/Almaty
           base_hireable: yes
           config_display: columns
+
           plugin_traffic: yes
 
-          plugin_languages: no
-
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
+          plugin_notable: yes
+          plugin_notable_repositories: yes
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
@@ -35,17 +33,15 @@ jobs:
           plugin_achievements_secrets: no
           plugin_achievements_limit: 8
 
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-
-          plugin_traffic: yes
-
-          plugin_stargazers: yes
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
 
           plugin_followup: yes
 
           plugin_lines: yes
 
+          plugin_languages: no
+          plugin_stargazers: no
           plugin_projects: no
           plugin_discussions: no
           plugin_isocalendar: no
