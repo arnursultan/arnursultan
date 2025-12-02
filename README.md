@@ -25,18 +25,23 @@ class Nursultan:
 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://profile-wine-eight.vercel.app/api?username=arnursultan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&v=25" />
+  <img height="180" 
+       src="https://profile-wine-eight.vercel.app/api?username=arnursultan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&v=27" 
+  />
   
-  <img height="180" src="https://profile-wine-eight.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=tokyonight&v=25" />
+  <img height="180" 
+       src="https://profile-wine-eight.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=tokyonight&v=27" 
+  />
 </div>
 
 <div align="center">
   <img 
-       src="https://streak-stats.demolab.com/?user=arnursultan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=25" 
+       src="https://streak-stats.demolab.com/?user=arnursultan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=27" 
        alt="GitHub Streak"
        height="180"
   />
 </div>
+
 
 
 
