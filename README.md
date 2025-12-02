@@ -36,7 +36,7 @@ class Nursultan:
 
 <div align="center">
   <img 
-       src="https://streak-stats.demolab.com/?user=arnursultan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=27" 
+       src="https://streak-stats.demolab.com/?user=arnursultan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1" 
        alt="GitHub Streak"
        height="180"
   />
