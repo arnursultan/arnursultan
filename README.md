@@ -51,7 +51,7 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 293.8 kB Used in GitHub's Storage 
+> 📦 293.9 kB Used in GitHub's Storage 
  > 
 > 🏆 289 Contributions in the Year 2025
  > 
@@ -111,7 +111,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 00:57:14 UTC
+ Last Updated on 12/12/2025 00:56:43 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
