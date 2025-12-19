@@ -51,26 +51,26 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 294.6 kB Used in GitHub's Storage 
+> 📦 294.1 kB Used in GitHub's Storage 
  > 
-> 🏆 290 Contributions in the Year 2025
+> 🏆 292 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Thursday                 117 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Friday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Thursday                 117 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Friday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -78,30 +78,30 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 12 mins       █████████████████████████   99.60 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python                   3 hrs 29 mins       ████████████████████████░   97.24 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 13 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Server31-1B              1 hr 21 mins        ███████████████░░░░░░░░░░   60.98 % 
-33-1B                    46 mins             █████████░░░░░░░░░░░░░░░░   34.96 % 
-30-1B                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Nursultan                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+34-1B                    1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.92 % 
+Server31-1B              1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.63 % 
+33-1B                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+30-1B                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   37 repos            █████████████████████░░░░   84.09 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   38 repos            █████████████████████░░░░   84.44 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -111,7 +111,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 00:53:33 UTC
+ Last Updated on 19/12/2025 00:57:05 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
