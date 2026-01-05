@@ -61,6 +61,32 @@ class Nursultan:
  > 
 > 🔑 2 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Thursday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Friday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +103,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 01:04:12 UTC
+ Last Updated on 05/01/2026 01:03:24 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
