@@ -51,9 +51,9 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 294.3 kB Used in GitHub's Storage 
+> 📦 294.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,13 +64,13 @@ class Nursultan:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Thursday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Friday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Monday                   106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Thursday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Friday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
 
@@ -78,13 +78,13 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 40 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+34-1B                    1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 01:03:24 UTC
+ Last Updated on 06/01/2026 00:58:27 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
