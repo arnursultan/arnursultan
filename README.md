@@ -78,21 +78,20 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 15 mins       ██████████████████░░░░░░░   72.75 % 
-HTML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-.env file                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Python                   3 hrs 17 mins       █████████████████░░░░░░░░   67.61 % 
+HTML                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 14 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-31-1B-Server-6month      5 hrs 38 mins       ████████████████████░░░░░   78.02 % 
-34-1B                    1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-30-1B                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-copy                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Server                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+31-1B-Server-6month      3 hrs 16 mins       █████████████████░░░░░░░░   67.44 % 
+34-1B                    1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+30-1B                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+copy                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 01:00:52 UTC
+ Last Updated on 22/01/2026 00:59:39 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
