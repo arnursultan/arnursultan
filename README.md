@@ -53,7 +53,7 @@ class Nursultan:
 
 > 📦 294.6 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,13 +64,13 @@ class Nursultan:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Thursday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Thursday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Friday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 
 
@@ -78,16 +78,16 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 21 mins        ███████████████████████░░   92.49 % 
-GitIgnore file           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Python                   3 hrs               ████████████████████████░   95.89 % 
+GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 27 mins        █████████████████████████   100.00 % 
+PyCharm                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-35-1B                    1 hr 24 mins        ████████████████████████░   95.80 % 
-30-1B                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+35-1B                    3 hrs 4 mins        █████████████████████████   98.03 % 
+30-1B                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -107,7 +107,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 01:07:11 UTC
+ Last Updated on 31/01/2026 01:04:33 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
