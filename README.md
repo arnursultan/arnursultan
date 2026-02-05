@@ -78,15 +78,15 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ████████████████████████░   96.98 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   3 hrs 29 mins       ████████████████████████░   97.01 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 33 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-35-1B                    3 hrs 33 mins       █████████████████████████   100.00 % 
+35-1B                    3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 01:07:18 UTC
+ Last Updated on 05/02/2026 01:08:10 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
