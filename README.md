@@ -51,9 +51,9 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 294.9 kB Used in GitHub's Storage 
+> 📦 295.0 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,13 +64,13 @@ class Nursultan:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Thursday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Friday                   116 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Thursday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 
@@ -78,15 +78,16 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       ████████████████████████░   96.63 % 
-GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   3 hrs 40 mins       █████████████████████████   98.97 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 23 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-35-1B                    3 hrs 23 mins       █████████████████████████   100.00 % 
+35-1B                    3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 01:08:40 UTC
+ Last Updated on 21/02/2026 01:07:24 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
