@@ -78,16 +78,18 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       █████████████████████████   98.97 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python                   3 hrs 55 mins       █████████████████████████   98.20 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 42 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-35-1B                    3 hrs 42 mins       █████████████████████████   100.00 % 
+35-1B                    3 hrs 55 mins       █████████████████████████   98.19 % 
+hw7.py                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 01:11:42 UTC
+ Last Updated on 24/02/2026 01:10:15 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
