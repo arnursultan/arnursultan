@@ -53,24 +53,24 @@ class Nursultan:
 
 > 📦 294.7 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2026
+> 🏆 19 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Thursday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Thursday                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 ```
 
 
@@ -78,27 +78,28 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 57 mins        ████████████████████████░   96.46 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   3 hrs 3 mins        ████████████████████████░   96.45 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 1 min         █████████████████████████   100.00 % 
+PyCharm                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-35-1B                    1 hr 57 mins        ████████████████████████░   96.42 % 
-hw7.py                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+35-1B                    1 hr 57 mins        ███████████████░░░░░░░░░░   61.65 % 
+36-1B                    1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   36.06 % 
+hw7.py                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            █████████████████████░░░░   84.78 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   40 repos            █████████████████████░░░░   85.11 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -108,7 +109,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 01:09:07 UTC
+ Last Updated on 27/02/2026 01:08:24 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
