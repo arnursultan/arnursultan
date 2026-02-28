@@ -51,7 +51,7 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 294.7 kB Used in GitHub's Storage 
+> 📦 294.8 kB Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2026
  > 
@@ -78,19 +78,19 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        ████████████████████████░   96.45 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   1 hr 20 mins        ████████████████████████░   94.76 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+RPMSpec                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 9 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-35-1B                    1 hr 57 mins        ███████████████░░░░░░░░░░   61.65 % 
-36-1B                    1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   36.06 % 
-hw7.py                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+36-1B                    1 hr 8 mins         ████████████████████░░░░░   80.37 % 
+35-1B                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+hw7.py                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 01:08:24 UTC
+ Last Updated on 28/02/2026 01:02:28 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
