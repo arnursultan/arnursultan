@@ -51,26 +51,26 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 294.7 kB Used in GitHub's Storage 
+> 📦 294.9 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Thursday                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Friday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Monday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Wednesday                65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Thursday                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Friday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 
@@ -78,25 +78,29 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 47 mins       ████████████████████████░   95.88 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python                   6 hrs 21 mins       ████████████████████░░░░░   80.39 % 
+HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 54 mins       █████████████████████████   100.00 % 
+PyCharm                  7 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-36-1B                    2 hrs 5 mins        ██████████████████░░░░░░░   72.01 % 
-DISCORD                  48 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+beka                     5 hrs               ████████████████░░░░░░░░░   63.22 % 
+36-1B                    2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+DISCORD                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            █████████████████████░░░░   85.11 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   41 repos            █████████████████████░░░░   85.42 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -106,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 01:06:26 UTC
+ Last Updated on 12/03/2026 01:03:18 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
