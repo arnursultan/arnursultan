@@ -78,19 +78,19 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 21 mins       ████████████████████░░░░░   80.39 % 
-HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   6 hrs 11 mins       ████████████████████░░░░░   80.05 % 
+HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 55 mins       █████████████████████████   100.00 % 
+PyCharm                  7 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-beka                     5 hrs               ████████████████░░░░░░░░░   63.22 % 
-36-1B                    2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-DISCORD                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+beka                     5 hrs               ████████████████░░░░░░░░░   64.66 % 
+36-1B                    1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+DISCORD                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
@@ -110,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 01:03:18 UTC
+ Last Updated on 13/03/2026 01:09:10 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
