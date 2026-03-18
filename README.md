@@ -78,20 +78,18 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 37 mins       █████████████████████░░░░   83.16 % 
-HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   6 hrs 55 mins       █████████████████████░░░░   82.87 % 
+HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 10 mins       █████████████████████████   100.00 % 
+PyCharm                  8 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-beka                     5 hrs               ██████████████░░░░░░░░░░░   54.56 % 
-36-1B                    3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
-DISCORD                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+beka                     5 hrs               ███████████████░░░░░░░░░░   59.86 % 
+36-1B                    3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 01:11:13 UTC
+ Last Updated on 18/03/2026 01:15:41 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
