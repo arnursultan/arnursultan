@@ -51,7 +51,7 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 338.0 kB Used in GitHub's Storage 
+> 📦 338.1 kB Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -78,13 +78,14 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 34 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 44 mins       ██████████████████████░░░   89.07 % 
+Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 34 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-36-1B                    2 hrs 34 mins       █████████████████████████   100.00 % 
+36-1B                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 01:13:25 UTC
+ Last Updated on 26/03/2026 01:19:15 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
