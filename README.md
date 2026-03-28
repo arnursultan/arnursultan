@@ -51,7 +51,7 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 338.1 kB Used in GitHub's Storage 
+> 📦 338.2 kB Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -78,18 +78,18 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       ███████████████████████░░   91.28 % 
-Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   3 hrs 43 mins       ███████████████████████░░   91.21 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 52 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-36-1B                    2 hrs 2 mins        █████████████░░░░░░░░░░░░   52.84 % 
-34-1B-Server             1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.06 % 
-Test                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+36-1B                    2 hrs 2 mins        █████████████░░░░░░░░░░░░   50.12 % 
+34-1B-Server             1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.35 % 
+Test                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 01:19:12 UTC
+ Last Updated on 28/03/2026 01:12:36 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
