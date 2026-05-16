@@ -51,23 +51,49 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 338.2 kB Used in GitHub's Storage 
+> 📦 338.3 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2026
+> 🏆 46 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Thursday                 125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   136 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Saturday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Sunday                   40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   43 repos            ██████████████████████░░░   86.00 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   44 repos            ██████████████████████░░░   86.27 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -77,7 +103,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 02:05:22 UTC
+ Last Updated on 16/05/2026 01:57:28 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
