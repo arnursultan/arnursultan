@@ -51,13 +51,13 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 340.1 kB Used in GitHub's Storage 
+> 📦 339.7 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -96,10 +96,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   45 repos            ██████████████████████░░░   86.54 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   46 repos            ██████████████████████░░░   86.79 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
@@ -109,7 +109,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:28:35 UTC
+ Last Updated on 29/07/2026 01:28:43 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
