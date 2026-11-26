@@ -1,126 +1,71 @@
-<h1 align="center">Hi 👋, I'm Nursultan</h1>
-<h3 align="center">Backend Developer | Python Enthusiast 🐍 | API Engineer | Docker Lover 🐳</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Crafting+robust+backends+💪;Engineering+elegant+APIs+with+Django+⚙️;Shipping+containers+like+a+DevOps+pirate+🐳" alt="Typing SVG" />
+
+# Nursultan
+
+### Backend engineer. Python at the core.
+
+**Thoughtful systems. Precise execution.**
+
+I build dependable backends and the infrastructure around them — from data models and APIs to async workflows and deployment.
+
+[Email](mailto:badstack.ops@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/arnursultan) &nbsp;·&nbsp; [Telegram](https://t.me/ar_nursultan)
+
 </div>
 
----
+<br />
 
-## 🧠 About Me
+## The stack
 
 ```python
-class Nursultan:
-    def __init__(self):
-        self.role = "Backend Developer"
-        self.stack = ["Python", "Django", "Docker", "PostgreSQL"]
-        self.learning = ["FastAPI", "Kubernetes", "CI/CD"]
-        self.focus = "Scalable backend systems & clean API design"
-
-    def __str__(self):
-        return "Keep it clean. Keep it simple. Keep it running."
-```
-🛠 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,linux,git,github,bash,webstorm" /> </div>
-📈 GitHub Stats
-
-<div align="center">
-  <img height="180" 
-       src="https://profile-wine-eight.vercel.app/api?username=arnursultan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&v=27" 
-  />
-  
-  <img height="180" 
-       src="https://profile-wine-eight.vercel.app/api/top-langs/?username=arnursultan&layout=donut&theme=tokyonight&v=27" 
-  />
-</div>
-
-<div align="center">
-  <img 
-       src="https://streak-stats.demolab.com/?user=arnursultan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1" 
-       alt="GitHub Streak"
-       height="180"
-  />
-</div>
-
-
-
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
-⏱️ WakaTime Weekly Stats
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 341.1 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   117 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  111 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Thursday                 134 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Friday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Saturday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Nursultan = {
+    "core":           ["Python", "OOP", "algorithms", "data structures"],
+    "backend":        ["Django", "DRF", "FastAPI · foundations", "Aiogram 3", "PyQt6"],
+    "data":           ["PostgreSQL", "SQLite", "SQL", "Django ORM", "Redis"],
+    "async":          ["Celery", "Workers", "Beat", "Flower", "Telegram FSM", "External APIs"],
+    "devops":         ["Docker", "Docker Compose", "Linux servers", "Nginx", "Gunicorn", "Vercel"],
+    "delivery":       ["Containers", "Reverse proxy", "App serving", "Deployment"],
+    "frontend":       ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Vite", "npm"],
+    "tooling":        ["Git", "GitHub", "GitLab", "Postman", "pgAdmin", "DBeaver", "RedisInsight"],
+    "workstation":    ["macOS", "zsh", "iTerm", "PyCharm", "WebStorm"],
+    "craft":          ["Ruff", "pytest", "OpenAPI", "AI-assisted development"],
+}
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   52 repos            ██████████████████████░░░   86.67 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
-
-
- Last Updated on 26/11/2026 10:29:37 UTC
-<!--END_SECTION:waka-->
-📊 GitHub Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/metrics.svg?ver=2" alt="GitHub Metrics" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,qt,postgres,sqlite,redis,docker,linux,nginx,vercel,html,css,js,ts,react,vite,npm,git,github,gitlab,postman,pycharm,webstorm,apple" alt="All technology logos" />
 </p>
 
-📬 Connect with Me
-<p align="center"> <a href="mailto:badstack.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/arnursultan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/arnursultan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://t.me/ar_nursultan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> </p>
-🔥 Fun Facts
-☕ I containerize my coffee with Docker Compose
+<p align="center"><sub>macOS · zsh · iTerm · pgAdmin 4 · DBeaver · RedisInsight · Ruff · OpenAPI</sub></p>
 
-🧼 Clean code is my poetry
+<br />
 
-🔁 I refactor for fun 😎
+## How I think about engineering
+
+**Clarity** &nbsp; Interfaces should be intuitive. Systems should be understandable.
+
+**Resilience** &nbsp; Good foundations make change easier and failures less surprising.
+
+**Craft** &nbsp; The details are part of the product — from a query plan to a clean handoff.
+
+**Operations** &nbsp; Linux servers, containers, reverse proxying, and getting services ready to run.
+
+<br />
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arnursultan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnursultan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Let’s build something that lasts.**
+
+[Get in touch](mailto:badstack.ops@gmail.com)
+
+</div>
