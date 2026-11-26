@@ -51,26 +51,26 @@ class Nursultan:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 340.4 kB Used in GitHub's Storage 
+> 📦 341.1 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 76 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 56 Public Repositories 
+> 📜 58 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Tuesday                  105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Wednesday                65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Thursday                 125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Friday                   136 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Saturday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Sunday                   40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Monday                   117 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Tuesday                  111 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Thursday                 134 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Friday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Saturday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 
 
@@ -96,11 +96,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   48 repos            █████████████████████░░░░   85.71 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   52 repos            ██████████████████████░░░   86.67 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -110,7 +109,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arnursultan/arnursultan/RTX/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 03:04:32 UTC
+ Last Updated on 26/11/2026 10:29:37 UTC
 <!--END_SECTION:waka-->
 📊 GitHub Metrics
 <p align="center">
