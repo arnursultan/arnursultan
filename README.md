@@ -35,7 +35,7 @@ Nursultan = {
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,qt,postgres,sqlite,redis,docker,linux,nginx,vercel,html,css,js,ts,react,vite,npm,git,github,gitlab,postman,pycharm,webstorm,apple" alt="All technology logos" />
 </p>
 
-<p align="center"><sub>macOS · zsh · iTerm · pgAdmin 4 · DBeaver · RedisInsight · Ruff · OpenAPI</sub></p>
+<p align="center"><sub>macOS · zsh · iTerm · pgAdmin · DBeaver · RedisInsight · Ruff · OpenAPI</sub></p>
 
 <br />
 
